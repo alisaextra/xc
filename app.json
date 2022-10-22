@@ -6,7 +6,7 @@
 		"shadows": true,
 		"shadowType": 1,
 		"vr": false,
-		"physicallyCorrectLights": false,
+		"physicallyCorrectLights": true,
 		"toneMapping": 0,
 		"toneMappingExposure": 1
 	},
@@ -78,7 +78,7 @@
 				"uuid": "1628c986-7412-4b85-a1e4-d6cd71e6e7a7",
 				"type": "MeshStandardMaterial",
 				"name": "Material",
-				"color": 16777215,
+				"color": 16727215,
 				"roughness": 0.5,
 				"metalness": 0,
 				"emissive": 0,
@@ -116,7 +116,7 @@
 				"magFilter": 1006,
 				"anisotropy": 1,
 				"flipY": false,
-				"premultiplyAlpha": false,
+				"premultiplyAlpha": true,
 				"unpackAlignment": 4,
 				"userData": {
 					"mimeType": "image/png"
